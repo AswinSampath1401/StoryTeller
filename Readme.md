@@ -12,6 +12,19 @@ The following features are implemented as of now
 - Edit and Delete Stories
 - View other's stories
 
+App Screenshots : 
+    ![SignUP](./images/signup.PNG)
+    <br>
+    ![Login](./images/login.PNG)
+    <br>
+    ![Dashboard](./images/dashboard.PNG)
+    <br>
+    ![Public Stories](./images/public_stories.PNG)
+    <br>
+    ![Add a Story](./images/add_story.PNG)
+    <br>
+    ![It's Responsive](./images/responsive.PNG)
+
 TODO:
     - Add a date feature to filter stories
     - Followers to an user to filter out specific stories 
