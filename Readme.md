@@ -25,7 +25,7 @@ App Screenshots :
     <br>
     ![It's Responsive](./images/responsive.PNG)
 
-TODO:
+Future Works:
     - Add a date feature to filter stories
     - Followers to an user to filter out specific stories 
 
